@@ -1,5 +1,5 @@
 {
   "_": "Подписанный список машин. Править руками бессмысленно: подпись перестанет сходиться. Источник - tools/machines.json",
-  "payload": "eyJtYWNoaW5lcyI6eyJHRlAyWC1NVjVZVS1XWlhJSS01VFJTTSI6ItCh0YLRgNCw0LvQuNGC0LcsINCz0LvQsNCy0L3QsNGPINC80LDRiNC40L3QsCJ9LCJ2ZXJzaW9uIjoxfQ==",
-  "signature": "m+8MSruMiZf8hBtrJbtsKAmGSM5fj3s3CKOy5f+5D7D/7i1CTnquXNzMlkq7+CgKm+wkYflB2uWAJCD3ri3ECg=="
+  "payload": "eyJtYWNoaW5lcyI6eyI1UlI0NS0yUTNIVy1UTURDUS1ZTEpBUSI6ItCh0YLRgNCw0LvQuNGC0LcsINCy0YLQvtGA0LDRjyDQvNCw0YjQuNC90LAv0L3QvtGD0YLQsdGD0LoiLCJHRlAyWC1NVjVZVS1XWlhJSS01VFJTTSI6ItCh0YLRgNCw0LvQuNGC0LcsINCz0LvQsNCy0L3QsNGPINC80LDRiNC40L3QsCJ9LCJ2ZXJzaW9uIjoxfQ==",
+  "signature": "TBZNwG38guv4+6PsJeK/xUNs5AweRQpCvN5HmYVZJH4y2T2vgKUWy52BISKscjSWtDV1Y1Oqv+s7WtME1uOHDA=="
 }
